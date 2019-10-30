@@ -1,4 +1,4 @@
-# MITx 60002 Syllabus
+# MITx 6.0002 Syllabus
 
 ### Course Meeting Times
 Lectures: 2 sessions / week, 1 hour / session
